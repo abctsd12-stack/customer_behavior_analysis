@@ -98,6 +98,6 @@ Prepared a detailed analytics report summarizing:
 
 ## Author
 
-Arpita Shaw
-B.Tech CSE (AI & ML) Student
+Arpita Shaw | 
+B.Tech CSE (AI & ML) Student | 
 Data Analytics & Business Intelligence Enthusiast
